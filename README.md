@@ -63,4 +63,4 @@ Resolve the errors and warnings that are shown in the application.
 
 ### Support
 
-If you have any problems or questions, go to our Discord channel, where we will help you as quickly as possible: https://discord.com/invite/rFMnCG5MZ7
+If you have any problems or questions, contact me through my portfolio, where i will help you as quickly as possible: https://theadeleke.com.ng
